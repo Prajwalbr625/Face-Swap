@@ -1,5 +1,5 @@
 
-# Face Swapping
+# Face Swapping with Diffusion Model
 
 <div align="center">
 
