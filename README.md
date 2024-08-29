@@ -9,7 +9,7 @@
   
 1. Clone this repository
   ```bash
-  git clone https://github.com/saba99/Face_Swap.git
+  git clone https://github.com/Prajwalbr625/Face-Swap.git
   cd Face_Swap
 
   ```
