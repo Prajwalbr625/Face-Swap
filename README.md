@@ -1,5 +1,5 @@
 
-# Face Swapping With Deep Fakes Methods
+# Face Swapping
 
 <div align="center">
 
